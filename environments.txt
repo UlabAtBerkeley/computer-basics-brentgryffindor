@@ -1,0 +1,6 @@
+# conda environments:
+#
+ulab_2.7                 D:\Anaconda3\envs\ulab_2.7
+ulab_3.6              *  D:\Anaconda3\envs\ulab_3.6
+root                     D:\Anaconda3
+
